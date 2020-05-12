@@ -11,6 +11,6 @@ The scikit-learn implementation (https://scikit-learn.org/stable/modules/generat
 Need to check if you've registered your algorithm properly? Run this:
 
 |  rest /servicesNS/nobody/-/configs/conf-algos
+
 |  table title
 
-and you can see what's registered.
