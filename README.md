@@ -1,4 +1,4 @@
-# Splunk_ML_Toolkit_Algorithms
+# Splunk ML Toolkit Algorithms
 Additional MLTK Algorithms
 
 First algorithm added is the OPTICS clustering algorithm.
